@@ -1,11 +1,5 @@
 <div id="header" align="center">
-
-
-  ![giphy](https://github.com/Humphreydotbit-IoT/Humphrey.bit/assets/164144789/b35f9ec5-4273-4274-ba54-c3f7f25d353d)
-
-</div>
-<div id="header" align="center">
-  <img src="https://github.com/Humphreydotbit-IoT/Humphrey.bit/assets/164144789/b35f9ec5-4273-4274-ba54-c3f7f25d353d" alt="giphy" style="width: 400px; height: 300px;">
+  <img src="https://github.com/Humphreydotbit-IoT/Humphrey.bit/assets/164144789/b35f9ec5-4273-4274-ba54-c3f7f25d353d" alt="giphy" style="width: 400px; height: 200px;">
 </div>
 
 
