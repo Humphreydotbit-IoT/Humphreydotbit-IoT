@@ -6,3 +6,4 @@
 
 📫 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always up for a chat about all things IoT and technology!
 
+[![Humphrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humphrey.bit)](https://github.com/Humphreydotbit-IoT/github-readme-stats)
