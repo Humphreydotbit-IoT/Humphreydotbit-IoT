@@ -20,17 +20,17 @@
 
 ---
 
-### :microchip: About Me :
+### :octocat:: About Me :
 A passionate IoT enthusiast with a knack for embedded systems and software development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
-- :telescope: I’m working as a Remote Sensing Specialist in Agriculture Domain 🌽 🌾  .
+- 🔌 I love crafting end-to-end IoT solutions that bridge the physical and digital worlds.
 
-- :seedling: Exploring Application of Deep learning and machine learning and Geoinformatics 🧠 .
+- :electron: Exploring the latest advancements in tinyML tinkering with electronics.
 
-- :zap: Love to talk about earth observation , remote sensing and application of AI in geoinformatics field 🛰️:.
+- 🤙 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always up for a chat about all things IoT and technology!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ZawThuHtet(Toby)-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zaw-thu-htet-toby/) [![Gmail Badge](https://img.shields.io/badge/-tobyzawthuhtet@gmail.com-white?style=flat&logo=Gmail&logoColor=red)](tobyzawthuhtet@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tunaungwai(Humphrey)-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tunaungwai/) [![Gmail Badge](https://img.shields.io/badge/-tunjrsanaung@gmail.com-white?style=flat&logo=Gmail&logoColor=red)](tunjrsanaung@gmail.com)
 
 
 ---
