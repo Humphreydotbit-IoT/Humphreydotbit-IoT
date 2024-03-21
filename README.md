@@ -4,6 +4,10 @@
   ![giphy](https://github.com/Humphreydotbit-IoT/Humphrey.bit/assets/164144789/b35f9ec5-4273-4274-ba54-c3f7f25d353d)
 
 </div>
+<div id="header" align="center">
+  <img src="https://github.com/Humphreydotbit-IoT/Humphrey.bit/assets/164144789/b35f9ec5-4273-4274-ba54-c3f7f25d353d" alt="giphy" style="width: 400px; height: 300px;">
+</div>
+
 
 <div id="badges", align ='center'>
   <a href="https://www.linkedin.com/in/tunaungwai/">
