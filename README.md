@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/arduinocc-arduino-petscii-ailadi-noJHhSSBdR0lvWGZlF" width="500"/>
+  <img src="https://media.giphy.com/media/arduinocc-arduino-petscii-ailadi-noJHhSSBdR0lvWGZlF/giphy.gif" width="500"/>
   
 </div>
 
