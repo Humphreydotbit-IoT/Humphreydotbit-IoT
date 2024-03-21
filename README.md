@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  ![Alt text](https://giphy.com/gifs/arduinocc-arduino-petscii-ailadi-noJHhSSBdR0lvWGZlF)
+  <iframe src="https://giphy.com/embed/noJHhSSBdR0lvWGZlF" width="480" height="206" frameBorder="0" class="giphy-embed" allowFullScreen>
 </div>
 
 <div id="badges", align ='center'>
