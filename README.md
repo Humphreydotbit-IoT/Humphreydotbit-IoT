@@ -16,6 +16,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humphreydotbit-iot&show_icons=true&locale=en&layout=compact" alt="humphreydotbit-iot" /></p>
 
+
+<!---
+Humphreydotbit-IoT/Humphrey.bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humphreydotbit-iot&show_icons=true&locale=en" alt="humphreydotbit-iot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humphreydotbit-iot&" alt="humphreydotbit-iot" /></p>
