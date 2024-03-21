@@ -1,22 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tun Aung Wai(Humphrey)</h1>
-<h3 align="center">A passionate IoT enthusiast with a knack for embedded systems and software development.</h3>
-
 <div id="header" align="center">
   <img src="https://github.com/Humphreydotbit-IoT/Humphrey.bit/assets/164144789/b35f9ec5-4273-4274-ba54-c3f7f25d353d" alt="giphy" style="width: 400px; height: 200px;">
 </div>
 
-
-<div id="badges", align ='center'>
-  <a href="https://www.linkedin.com/in/tunaungwai/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/tunaungwai">
-    <img src="https://img.shields.io/badge/FaceBook-darkblue?style=for-the-badge&logo=youtube&logoColor=white" alt="FaceBook Badge"/>
-  </a>
-  <a href="https://medium.com/@tunaungwai">
-    <img src="https://img.shields.io/badge/Medium-gray?style=for-the-badge&logo=twitter&logoColor=white" alt="Medium Badge"/>
-  </a>
-</div>
 
 ---
 
