@@ -18,16 +18,10 @@
   </a>
 </div>
 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR/giphy.gif" width="600" height="600"/>
-</div>
-
-
 ---
 
-### :artificial_satellite: About Me :
-I am a Geoinformatics devotee, willing to go for Geo Data science career. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### :microchip: About Me :
+A passionate IoT enthusiast with a knack for embedded systems and software development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
 - :telescope: I’m working as a Remote Sensing Specialist in Agriculture Domain 🌽 🌾  .
