@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Tun Aung Wai(Humphrey)</h1>
+<h3 align="center">A passionate IoT enthusiast with a knack for embedded systems and software development.</h3>
+
 <div id="header" align="center">
   <img src="https://github.com/Humphreydotbit-IoT/Humphrey.bit/assets/164144789/b35f9ec5-4273-4274-ba54-c3f7f25d353d" alt="giphy" style="width: 400px; height: 200px;">
 </div>
