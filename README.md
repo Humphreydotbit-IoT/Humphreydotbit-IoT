@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/arduinocc-arduino-petscii-ailadi-noJHhSSBdR0lvWGZlF/giphy.gif" width="500"/>
-  
+  ![Alt text](https://giphy.com/gifs/arduinocc-arduino-petscii-ailadi-noJHhSSBdR0lvWGZlF)
 </div>
 
 <div id="badges", align ='center'>
