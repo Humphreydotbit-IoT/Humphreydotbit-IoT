@@ -7,7 +7,7 @@
 ---
 
 ### :octocat:: About Me :
-A passionate IoT enthusiast with a knack for embedded systems and software development<iframe src="https://giphy.com/embed/vpDKdZR3mv4g2pToGG" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funding-iota-devloping-vpDKdZR3mv4g2pToGG">via GIPHY</a></p> .
+A passionate IoT enthusiast with a knack for embedded systems and software development.
 - 🔌 I love crafting end-to-end IoT solutions that bridge the physical and digital worlds.
 
 - :electron: Exploring the latest advancements in tinyML tinkering with electronics.
