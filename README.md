@@ -33,7 +33,8 @@ A passionate IoT enthusiast with a knack for embedded systems and software devel
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Humphreydotbit-IoT&layout=default&theme=vision-friendly-dark&langs_count=10)](https://github.com/Humphreydotbit-IoT/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Humphreydotbit-IoT&layout=default&theme=vision-friendly-dark)](https://github.com/Humphreydotbit-IoT/github-readme-stats)
+
 
 <!---
 tobyzawthuhtet/tobyzawthuhtet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
